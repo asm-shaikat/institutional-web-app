@@ -1,0 +1,10 @@
+.missionvission{
+    height: 600px;
+    width: 1100px;
+    background-color:whitesmoke;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.missionvission p{
+    margin-left: 12px;
+}

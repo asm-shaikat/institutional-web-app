@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.part> .logo img{
+    height: 130px;
+    width: 130px;
+    margin-left: 670px;
+    margin-bottom: 10px;
+    
+}
+
+.pic-slider{
+    margin-left: 500px;
+    height: 300px;
+    width: 500px;
+    margin-top: 50px;
+}
+
+
+.main-body{
+    margin-top: 20px;
+}
+.welcome h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(255, 255, 255);
+    
+}
+.welcome{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.im-m1{
+    margin-top: 10px;
+    width: 40%;
+    height: 350px;
+    margin-left: 430px;
+    border:3px solid black ;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+.im-m2{
+    margin-left: 240px;
+}
+.im-m2>div{
+    float: left;
+}
+.msg{
+    margin-right: 50px;
+}
+.notice{
+    border: 2px solid green;
+}
+.notice h2{
+    text-align: center;
+    background-color: green;
+    width: 500px;
+    margin-left: 490px;
+    color: white;
+}
+.notice p{
+    margin-left: 100px;
+}
+.ftr{
+    height: 500px;
+    width: 100%;
+    background-color:rgb(34, 29, 29);
+}
+.ftr>div{
+    float: left;
+}
+.contact{
+    color: white;
+    margin-left: 270px;
+    margin-top: 50px;
+}
+.visitor{
+    margin-left: 1000px;;
+}

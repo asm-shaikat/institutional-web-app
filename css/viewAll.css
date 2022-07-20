@@ -1,0 +1,9 @@
+.ViewNotice h2{
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.ViewNotice p{
+    margin-left: 70px;
+}
